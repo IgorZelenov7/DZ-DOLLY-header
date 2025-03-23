@@ -31,6 +31,7 @@ body {
     height: 967px;
     background-image: url(../img/main.png);
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
     z-index: 1;
     pointer-events: none;
