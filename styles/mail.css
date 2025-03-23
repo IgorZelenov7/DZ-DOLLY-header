@@ -30,7 +30,7 @@ body {
     width: 968px;
     height: 967px;
     background-image: url(../img/main.png);
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     z-index: 1;
     pointer-events: none;
